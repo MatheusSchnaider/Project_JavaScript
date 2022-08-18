@@ -6,7 +6,7 @@
 
 ## 💼 Tecnologias utilizadas
 
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 
 - HTML;
 - CSS;
