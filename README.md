@@ -2,7 +2,7 @@
   💻<br># Project_JavaScript
 </h1>
 
-<h3>Projeto para estudo da linguagem JavaScript<h3>
+<h3 align="center">Projeto para estudo da linguagem JavaScript<h3>
 
 ## 💼 Tecnologias utilizadas
 
